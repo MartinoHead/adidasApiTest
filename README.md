@@ -17,9 +17,7 @@ Java + Maven + RestAssured + Cucumber
 
 **Requirements:**
 
-Java 8+
-Maven
-Intellij IDEA
+Java 8+, Maven, Intellij IDEA
 
 **How to start tests:**
 
