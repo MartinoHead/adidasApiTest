@@ -17,7 +17,6 @@ Java + Maven + RestAssured + Cucumber
 
 **Requirements:**
 
-Google Chrome v102 (chromedriver.exe is in the code repository) 
 Java 8+
 Maven
 Intellij IDEA
